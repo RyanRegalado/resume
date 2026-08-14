@@ -6,3 +6,13 @@ Unofficial_Transcript_FA26.pdf
 
 # Unfinished Resumes
 RyanRegalado_Resume_unfinished.pdf
+
+# other
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.gz
