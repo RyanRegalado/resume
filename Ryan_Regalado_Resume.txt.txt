@@ -1,0 +1,59 @@
+Ryan Regalado
+(630) 995-5775 | rrega3@illinois.edu | LinkedIn | GitHub
+
+EDUCATION
+
+University of Illinois Urbana-Champaign
+Champaign, IL
+Bachelor of Science in Statistics, Minors in Computer Science & Mathematics
+Aug. 2024 -- Expected: May 2028
+Achievements: 3.93 GPA | Dean's List (Fall 2024, Spring 2025)
+Relevant Coursework: Mathematical Statistics I & II, Regression Analysis, Statistical Machine Learning, Stochastic Processes, Nonlinear Optimization, Optimization for Data Science, Data Structures & Algorithms
+
+EXPERIENCE
+
+Blackwell Research Scholar
+University of Illinois Department of Statistics
+Champaign, IL
+Jun. 2026 -- Aug. 2026
+- Developed a Python simulation framework for analyzing and testing a low-rank spectral model (GJIVE) across high-dimensional data and systematically perturbed experimental settings.
+- Engineered scalable linear algebra workflows using IRLB-based truncated SVD and parallel CPU computation, reducing estimation runtime by 66%.
+- Applied the GJIVE model to 734-subject fMRI connectivity data with ~19K features, extracting interpretable representations of high-dimensional brain connectivity structure.
+- Delivered various modes of communication: interactive dashboards and simulation plots via Streamlit, detailed LaTeX write-ups, and an organized and well-documented codebase.
+
+Undergraduate Researcher
+Illinois Mathematics Lab
+Champaign, IL
+Jan. 2026 -- May 2026
+- Analyzed end-of-season collapse patterns in win/loss sequences across the NBA, MLB, and European soccer leagues by creating probabilistic metrics to identify major historical season collapses.
+- Co-developed a data engineering pipeline and database schema integrating 500,000+ games from multiple sources.
+- Organized a collaborative repository of 300+ notebooks, scripts, datasets, and figures across the research team.
+- Accelerated simulation-heavy outputs by 18× through vectorized computations.
+
+PROJECTS
+
+Hotel Price Prediction | R, tidyverse, caret, glmnet, randomForest
+Apr. 2026 -- May 2026
+- Developed and evaluated eight regression and classification models—including linear regression, LASSO, KNN, bagging, random forest, LDA, QDA, and Naive Bayes—on 110,000+ hotel bookings with 31 predictors.
+- Achieved a best test RMSE of 24.9 using Random Forest and 66.3% classification accuracy using LDA through comparative model evaluation.
+- Engineered quantile-based ADR classes and applied PCA to mitigate multicollinearity for QDA and Naive Bayes models.
+
+College Loan Visualization | JavaScript, React, Express.js, Node.js, Supabase
+Jun. 2025 -- Sep. 2025
+- Developed a full-stack loan analysis tool using Node.js, React, Express.js, and Supabase, leveraging Supabase API for anonymous user authentication–securely tracking user-specific data for personalized financial profiles.
+- Designed databases, routing, and frontend behavior while leveraging AI for rapid development of CSS styling.
+- Implemented logic for comprehensive repayment & net income calculations using state-specific tax information.
+
+Fraud Call Detection | Python, pandas, scikit-learn, NLTK, TextBlob
+Jan. 2025 -- May 2025
+- Built an NLP‑based fraud call classifier to help identify scam voicemail transcripts for consumer protection.
+- Developed NLP pipeline using Regex and TextBlob, preparing a corpus of 5000+ call transcripts for vectorization via Term Frequency-Inverse Document Frequency (TF-IDF).
+- Trained a logistic regression model for fraud detection, accounting for a 9:1 class imbalance ratio, yielding 81% precision.
+- Deployed classification model on iPhone voicemail transcripts, achieving 80% accuracy on real-world test data.
+
+TECHNICAL SKILLS
+
+Languages: Python, R, JavaScript, Java, C++
+Frameworks & Platforms: React, Node.js, Express.js, Supabase, Streamlit
+Libraries: pandas, NumPy, SciPy, scikit-learn, Matplotlib, NLTK, TextBlob | tidyverse, ggplot2, glmnet, randomForest
+Developer Tools: Git, LaTeX, VS Code

@@ -127,7 +127,7 @@
       {Bachelor of Science in Statistics, Minors in Computer Science \& Mathematics}{Aug. 2024 -- Expected: May 2028}
       \resumeItemListStart
         \resumeItem{\textbf{Achievements:} 3.93 GPA \;|\; Dean's List (Fall 2024, Spring 2025)}
-        \resumeItem{\textbf{Relevant Coursework:} Optimization for Data Science, Nonlinear Optimization, Stochastic Processes, Statistical Machine Learning, Regression Analysis, Mathematical Statistics I \& II, Data Structures \& Algorithms}
+        \resumeItem{\textbf{Relevant Coursework:} Mathematical Statistics I \& II, Regression Analysis, Statistical Machine Learning, Stochastic Processes, Nonlinear Optimization, Optimization for Data Science, Data Structures \& Algorithms}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
 
